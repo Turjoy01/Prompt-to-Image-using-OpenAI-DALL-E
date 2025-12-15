@@ -124,3 +124,5 @@ Try prompts like:
 📜 License
 
 MIT License — free for personal and commercial use.
+
+<img width="1506" height="510" alt="image" src="https://github.com/user-attachments/assets/c645083b-e24f-4b41-b86a-eb1ab0122017" />
